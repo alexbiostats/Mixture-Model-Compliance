@@ -8,4 +8,4 @@ Simulation_ParallelComputing_Code.R: code to run the simulations in parallel cor
 
 Simulation_Result_Code.R: code to take simulation results and format for paper
 
-Example_Analysis_Code.R: code ot simulate a sample data set with 5 dose-levels to implement the various models proposed in the manuscript
+Example_Analysis_Code.R: code to simulate a sample data set with 5 dose-levels to implement the various models proposed in the manuscript
